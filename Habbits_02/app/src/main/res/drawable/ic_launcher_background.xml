@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="AndroidLogFilters">
+        <option
+            name="TOOL_WINDOW_LOG_LEVEL"
+            value="verbose" />
+        <option
+            name="TOOL_WINDOW_CONFIGURED_FILTER"
+            value="No Filters" />
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="a6a1b628-680b-41db-97e2-dfb750ea96cb" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="DefaultGradleProjectSettings">
+        <option
+            name="isMigrated"
+            value="true" />
+    </component>
+    <component
+        name="ExecutionTargetManager"
+        SELECTED_TARGET="LGD724ae17ea5c" />
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/hobbits_01/MainActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="408">
+                            <caret
+                                column="5"
+                                line="24"
+                                selection-end-column="5"
+                                selection-end-line="24"
+                                selection-start-column="8"
+                                selection-start-line="15" />
+                            <folding>
+                                <element
+                                    expanded="true"
+                                    signature="imports" />
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+                    <provider editor-type-id="text-editor" />
+                    <provider
+                        editor-type-id="android-designer2"
+                        selected="true" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="51">
+                            <caret
+                                column="37"
+                                line="3"
+                                selection-end-column="37"
+                                selection-end-line="3"
+                                selection-start-column="37"
+                                selection-start-line="3" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true" />
+                    <provider editor-type-id="android-manifest" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="917">
+                            <caret
+                                column="48"
+                                lean-forward="true"
+                                line="90"
+                                selection-end-column="48"
+                                selection-end-line="90"
+                                selection-start-column="48"
+                                selection-start-line="90" />
+                        </state>
+                    </provider>
+                    <provider editor-type-id="android-designer2" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/hobbits_01/Main2Activity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="1207">
+                            <caret
+                                column="75"
+                                line="86"
+                                selection-end-column="75"
+                                selection-end-line="86"
+                                selection-start-column="75"
+                                selection-start-line="86" />
+                            <folding>
+                                <element
+                                    expanded="true"
+                                    signature="imports" />
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/hobbits_01/DBHelper.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="238">
+                            <caret
+                                column="33"
+                                line="16"
+                                selection-end-column="33"
+                                selection-end-line="16"
+                                selection-start-column="33"
+                                selection-start-line="16" />
+                            <folding>
+                                <element
+                                    expanded="true"
+                                    signature="imports" />
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="FileTemplateManagerImpl">
+        <option name="RECENT_TEMPLATES">
+            <list>
+                <option value="Class" />
+            </list>
+        </option>
+    </component>
+    <component name="IdeDocumentHistory
